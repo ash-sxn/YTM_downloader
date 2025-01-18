@@ -1,4 +1,3 @@
-YouTube Music MP3 Downloader
 This project provides a set of scripts to automate the process of downloading MP3 versions of songs from YouTube Music. It uses the YTMusic API to retrieve video IDs and yt-dlp for downloading the audio in MP3 format.
 
 Table of Contents
@@ -116,3 +115,4 @@ Contributions are welcome! If you find a bug or want to add a new feature, pleas
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
